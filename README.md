@@ -3,6 +3,7 @@
 
 
 Problema 1
+
 1.1 Descriere
 
 Bingo este un joc de noroc popular care implica extragerea aleatorie a unor numere si marcarea acestora pe carduri speciale.
@@ -160,6 +161,7 @@ NO WINNER
 
 
 Problema 2
+
 2.1 Descriere
 
 O biblioteca are probleme cu gestionarea cartilor si managerul a decis sa va ceara ajutorul pentru a implementa un sistem de gestiune care sa permita gasirea celor mai potrivite carti.
